@@ -16,5 +16,10 @@ Use this as the starting point for creating an extension for your team.
 * Modify and add buttons in *VSCommandTable.vsct*
 * Modify and add URLs for the buttons in the *MyCompanyPackage.cs*
 
+Update the link in [feed.pkgdef](https://github.com/AlexHedley/MyCompany/blob/master/src/feed.pkgdef) to match the [PrivateGalleryCreator](https://github.com/madskristensen/PrivateGalleryCreator) location.
+
+- ["My Company" internal extension](https://www.youtube.com/watch?v=M1TodojlulY)
+- [Writing Visual Studio Extensions with Mads](https://www.youtube.com/watch?v=iPf2oyJbADE&list=PLReL099Y5nRdG2n1PrY_tbCsUznoYvqkS)
+
 ## License
 [Apache 2.0](LICENSE)
